@@ -1,0 +1,126 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Ayrton & Lorenzo Bregant} % Texto en el encabezado a la derecha
+\lhead{CS} % Texto en el encabezado a la izquierda
+
+\title{
+	\includegraphics[width=0.6\linewidth]{imagenes/logo.png}\\[1.5em]
+	Práctica Profesional I - Trabajo Final
+}
+\author{\\ \\ \\ Alumnos: Ayrton M. Bregant, Lorenzo Bregant \\ \\ Carrera: Técnico Superior en Desarrollo de Software \\ \\ Proyecto: Trabajo Final PPI \\ \\ Año cursado: 2do}
+\date{}
+
+\begin{document}
+
+\maketitle
+\clearpage
+\section{Introducción}
+\parindent=1em
+	
+	En respuesta a la creciente necesidad de optimización de recursos en la industria metalúrgica, ha surgido 'CS' como una solución integral diseñada de manera específica para satisfacer las demandas de fábricas metalúrgicas. Este trabajo final se centra en una documentación exhaustiva de 'CS', un software que permitirá una gestión integral del circuito productivo en su totalidad, desde la compra de insumos para la fabricación de las máquinas, incluyendo la gestión de proveedores hasta la gestión de clientes y los pedidos realizados por estos. A su vez, permitirá gestionar el stock tanto de los insumos (piezas y materiales) necesarios para la fabricación de las máquinas, como así también de las máquinas fabricadas.
+	
+	Nuestra elección de estudio de caso recae en "Avila Maquinarias", una empresa familiar con varios empleados que, hasta el momento, ha carecido de un sistema de control de inventario, dependiendo en su lugar de hojas de cálculo y documentos impresos para gestionar su información.
+	
+	En las siguientes páginas, explicaremos en detalle las características esenciales de 'CS', su funcionamiento y su potencial para transformar la gestión de inventario en la industria metalúrgica. Además, se proporcionarán directrices claras para su implementación y uso efectivo. A medida que avanzamos, descubriremos cómo 'CS' se convierte en un aliado estratégico, mejorando la eficiencia de la producción y contribuyendo a la rentabilidad de las fábricas metalúrgicas en un entorno altamente competitivo.
+
+\section{Abstract}
+	
+	In response to the growing need for resource optimization in the metallurgical industry, 'CS' has emerged as a comprehensive solution specifically designed to meet the demands of metallurgical factories. This final work focuses on a comprehensive documentation of 'CS,' a software that will enable comprehensive management of the entire production process, from the purchase of raw materials for machine manufacturing, including supplier management to customer management and orders placed by them. Furthermore, it will allow for the management of both the stock of the raw materials (parts and materials) required for machine manufacturing, as well as the machines manufactured.
+	
+	Our case study choice falls on "Avila Maquinarias," a family-owned company with several employees that, until now, has lacked an inventory control system, relying instead on spreadsheets and printed documents to manage their information.
+
+	In the following pages, we will explain in detail the essential features of 'CS', how it operates, and its potential to transform inventory management in the metallurgical industry. Furthermore, clear guidelines for its implementation and effective use will be provided. As we progress, we will discover how 'CS' becomes a strategic ally, improving production efficiency and contributing to the profitability of metallurgical factories in a highly competitive environment.
+
+\section{Descripción del sistema}
+	El sistema planteado para Ávila Maquinarias permite al usuario una gestión integral y eficiente de todo el circuito productivo en la industria metalúrgica.
+	
+	Conocido como 'CS', este software se enfoca en optimizar recursos desde la compra de insumos hasta la entrega de productos a clientes. Su funcionalidad abarca la gestión de proveedores, el control en tiempo real del inventario de insumos y productos fabricados, así como la administración de clientes y pedidos. 
+
+	El sistema permite llevar un control de los insumos necesarios para la fabricación de una máquina. Cuando se selecciona una máquina, automáticamente se da de baja la cantidad de materia prima que conlleva dicha máquina. Ej: si una máquina utiliza 2 rodamientos, se descontarán esos dos rodamientos de la lista de materiales.
+
+	Además, el sistema emite una alerta cuando la cantidad de materiales llega a cierto punto de escasez para así poder hacer el pedido a los proveedores.
+	
+	El software también mantiene un registro detallado de los pedidos de máquinas realizados por los clientes, teniendo en cuenta la posibilidad de cancelaciones, suspensiones o entregas.
+
+\section{Requerimientos}
+\subsection{Funcionales}
+\begin{itemize}
+	\item Gestión de usuarios
+	\begin{enumerate}
+		\item Registrar usuario con nombre y contraseña.
+		\item Validar usuario.
+		\item Modificar usuario.
+		\item Eliminar usuario.
+	\end{enumerate}
+\end{itemize}
+
+\begin{itemize}
+	\item Gestión de insumos
+	\begin{enumerate}[start=5]
+		\item Ingresar insumos.
+		\item Modificar registros de insumos.
+		\item Eliminar registros de insumos.
+		\item Categorizar materiales (Chapas y Redondos, Gases, Insumos Varios, Aceites).
+		\item Mantener una lista actualizada de insumos utilizados en la producción.
+	\end{enumerate}
+\end{itemize}
+
+\begin{itemize}
+	\item Gestión de proveedores
+	\begin{enumerate}[start=10]
+		\item Registrar la entrada de nuevos materiales.
+		\item Registrar la salida de materiales.
+		\item Asignar responsables para estas transacciones.
+	\end{enumerate}
+\end{itemize}
+
+\begin{itemize}
+	\item Relación entre Materiales y Máquinas
+	\begin{enumerate}[start=13]
+		\item Listar qué materiales se utilizan en la producción de máquinas específicas.
+		\item Registrar la cantidad de cada material utilizado en cada máquina.
+		\item Generar alertas por bajo stock de materiales necesarios para la producción de máquinas.
+	\end{enumerate}
+\end{itemize}
+
+\begin{itemize}
+	\item Gestión de productos
+	\begin{enumerate}[start=16]
+		\item Ingresar máquinas.
+		\item Modificar registros de máquinas.
+		\item Eliminar registros de máquinas.
+		\item Consultar el inventario de máquinas.
+	\end{enumerate}
+\end{itemize}
+
+\begin{itemize}
+	\item Gestión de clientes
+	\begin{enumerate}[start=20]
+		\item Ingresar clientes.
+		\item Modificar registro de clientes.
+	\end{enumerate}
+\end{itemize}
+
+\begin{itemize}
+	\item Gestión de pedidos (Distintos estados: Pendiente, en preparación, terminado y entregado)
+	\begin{enumerate}[start=22]
+		\item Registrar pedido.
+		\item Modificar pedido.
+		\item Cancelar Pedidos.
+	\end{enumerate}
+\end{itemize}
+
+\begin{itemize}
+	\item Gestión de compras (comprar insumos).
+	\begin{enumerate}[start=25]
+		\item Registrar Lista de Compra
+	\end{enumerate}
+\end{itemize}
+
+\end{document}
