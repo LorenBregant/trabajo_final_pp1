@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.29)  20 FEB 2024 14:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.29)  20 FEB 2024 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -139,20 +139,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 21.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imagenes/logo.png>]
-! Misplaced alignment tab character &.
-\f@nch@orh ->Ayrton &
-                      Lorenzo Bregant\strut 
-l.43 	C
-       onocido como 'CS', este software se enfoca en optimizar recursos desd...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imagenes/logo.png>] [2
 
 ]
 Overfull \hbox (0.22282pt too wide) in paragraph at lines 49--50
@@ -166,32 +153,10 @@ Overfull \hbox (3.11171pt too wide) in paragraph at lines 70--71
  la pro-ducci^^Son. 
  []
 
-! Misplaced alignment tab character &.
-\f@nch@orh ->Ayrton &
-                      Lorenzo Bregant\strut 
-l.87 		\item R
-              egistrar la cantidad de cada material utilizado en cada máquina.
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+[3{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [4]
+[5
 
-[3{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-! Misplaced alignment tab character &.
-\f@nch@orh ->Ayrton &
-                      Lorenzo Bregant\strut 
-l.126 \end{document}
-                    
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[4] (./trabajo_final.aux) ) 
+] (./trabajo_final.aux) ) 
 Here is how much of TeX's memory you used:
  2283 strings out of 477985
  40746 string characters out of 5840058
@@ -200,15 +165,15 @@ Here is how much of TeX's memory you used:
  516569 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,12n,77p,781b,413s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1000.pfb>
-Output written on trabajo_final.pdf (4 pages, 710271 bytes).
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1
+/public/cm-super/sfrm1000.pfb>
+Output written on trabajo_final.pdf (5 pages, 712959 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 49 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
