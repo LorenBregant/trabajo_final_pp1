@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.29)  2 MAR 2024 01:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.29)  2 MAR 2024 01:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -150,89 +150,57 @@ Overfull \hbox (10.22284pt too wide) in paragraph at lines 54--55
 los pe-di-dos de m^^Saquinas
  []
 
-[3]
-Overfull \hbox (3.11171pt too wide) in paragraph at lines 66--67
-[]\OT1/cmr/m/n/10 Mantener una lista ac-tu-al-izada de in-sumos uti-liza-dos en
- la pro-ducci^^Son. 
- []
-
-[4{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [5]
-<imagenes/cu_sistema_de_gestion.png, id=26, 531.48563pt x 369.63094pt>
+[3] [4{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[5] [6]
+<imagenes/cu_sistema_de_gestion.png, id=29, 531.48563pt x 369.63094pt>
 File: imagenes/cu_sistema_de_gestion.png Graphic file (type png)
 <use imagenes/cu_sistema_de_gestion.png>
 Package pdftex.def Info: imagenes/cu_sistema_de_gestion.png  used on input line
- 176.
+ 180.
 (pdftex.def)             Requested size: 345.0pt x 239.9414pt.
-<imagenes/cu_gestion_de_insumos.png, id=27, 446.41782pt x 262.73157pt>
+<imagenes/cu_gestion_de_insumos.png, id=30, 446.41782pt x 262.73157pt>
 File: imagenes/cu_gestion_de_insumos.png Graphic file (type png)
 <use imagenes/cu_gestion_de_insumos.png>
 Package pdftex.def Info: imagenes/cu_gestion_de_insumos.png  used on input line
- 177.
+ 181.
 (pdftex.def)             Requested size: 345.0pt x 203.04558pt.
-<imagenes/cu_gestion_clientes.png, id=28, 459.21562pt x 223.58531pt>
+<imagenes/cu_gestion_clientes.png, id=31, 459.21562pt x 223.58531pt>
 File: imagenes/cu_gestion_clientes.png Graphic file (type png)
 <use imagenes/cu_gestion_clientes.png>
 Package pdftex.def Info: imagenes/cu_gestion_clientes.png  used on input line 1
-78.
+82.
 (pdftex.def)             Requested size: 345.0pt x 167.98195pt.
-<imagenes/cu_relacion_materiales_maquinas.png, id=29, 454.69875pt x 267.24844pt
+<imagenes/cu_relacion_materiales_maquinas.png, id=32, 454.69875pt x 267.24844pt
 >
 File: imagenes/cu_relacion_materiales_maquinas.png Graphic file (type png)
 <use imagenes/cu_relacion_materiales_maquinas.png>
 Package pdftex.def Info: imagenes/cu_relacion_materiales_maquinas.png  used on 
-input line 179.
+input line 183.
 (pdftex.def)             Requested size: 345.0pt x 202.77654pt.
+ [7
 
-[6
-
-] [7 <./imagenes/cu_sistema_de_gestion.png> <./imagenes/cu_gestion_de_insumos.p
+] [8 <./imagenes/cu_sistema_de_gestion.png> <./imagenes/cu_gestion_de_insumos.p
 ng>]
-<imagenes/especificacion_usuario.png, id=39, 343.2825pt x 525.46312pt>
-File: imagenes/especificacion_usuario.png Graphic file (type png)
-<use imagenes/especificacion_usuario.png>
-Package pdftex.def Info: imagenes/especificacion_usuario.png  used on input lin
-e 184.
-(pdftex.def)             Requested size: 327.74895pt x 501.68071pt.
-File: imagenes/especificacion_usuario.png Graphic file (type png)
-<use imagenes/especificacion_usuario.png>
-Package pdftex.def Info: imagenes/especificacion_usuario.png  used on input lin
-e 186.
-(pdftex.def)             Requested size: 345.0pt x 528.0917pt.
-
-Overfull \hbox (36.08128pt too wide) in paragraph at lines 183--187
-\OT1/cmr/m/n/10 <<<<<<< HEAD []
- []
-
-
-Overfull \hbox (56.66682pt too wide) in paragraph at lines 183--187
-\OT1/cmr/m/n/10 ======= [] 
- []
-
-[8 <./imagenes/cu_gestion_clientes.png> <./imagenes/cu_relacion_materiales_maqu
-inas.png>]
-Overfull \vbox (506.4196pt too high) has occurred while \output is active []
-
-
-[9 <./imagenes/especificacion_usuario.png>]
-<imagenes/especificacion_insumos.png, id=49, 342.5297pt x 535.2497pt>
+<imagenes/especificacion_insumos.png, id=42, 342.5297pt x 535.2497pt>
 File: imagenes/especificacion_insumos.png Graphic file (type png)
 <use imagenes/especificacion_insumos.png>
 Package pdftex.def Info: imagenes/especificacion_insumos.png  used on input lin
-e 188.
+e 189.
 (pdftex.def)             Requested size: 345.0pt x 539.15231pt.
-<imagenes/especificacion_insumos2.png, id=50, 410.2828pt x 175.40532pt>
+<imagenes/especificacion_insumos2.png, id=43, 410.2828pt x 175.40532pt>
 File: imagenes/especificacion_insumos2.png Graphic file (type png)
 <use imagenes/especificacion_insumos2.png>
 Package pdftex.def Info: imagenes/especificacion_insumos2.png  used on input li
-ne 189.
+ne 190.
 (pdftex.def)             Requested size: 345.0pt x 147.49467pt.
+ [9 <./imagenes/cu_gestion_clientes.png> <./imagenes/cu_relacion_materiales_maq
+uinas.png>]
+Overfull \vbox (161.34973pt too high) has occurred while \output is active []
 
-Overfull \hbox (20.00003pt too wide) in paragraph at lines 188--191
-[][]
- []
 
-[10 <./imagenes/especificacion_insumos.png>]
-<imagenes/imagen_de_especificaion_muy_dificil_de_replicar_en_latex.jpg, id=55, 
+[10 <./imagenes/especificacion_insumos.png> <./imagenes/especificacion_insumos2
+.png>]
+<imagenes/imagen_de_especificaion_muy_dificil_de_replicar_en_latex.jpg, id=54, 
 785.93625pt x 1606.0pt>
 File: imagenes/imagen_de_especificaion_muy_dificil_de_replicar_en_latex.jpg Gra
 phic file (type jpg)
@@ -240,42 +208,42 @@ phic file (type jpg)
 Package pdftex.def Info: imagenes/imagen_de_especificaion_muy_dificil_de_replic
 ar_en_latex.jpg  used on input line 192.
 (pdftex.def)             Requested size: 310.4979pt x 634.49785pt.
-<imagenes/pan_registrar_materialespormaquina.png, id=56, 1582.91376pt x 722.7pt
+<imagenes/pan_registrar_materialespormaquina.png, id=55, 1582.91376pt x 722.7pt
 >
 File: imagenes/pan_registrar_materialespormaquina.png Graphic file (type png)
 <use imagenes/pan_registrar_materialespormaquina.png>
 Package pdftex.def Info: imagenes/pan_registrar_materialespormaquina.png  used 
 on input line 195.
 (pdftex.def)             Requested size: 345.0pt x 157.50577pt.
- [11 <./imagenes/especificacion_insumos2.png>]
+
 Overfull \vbox (84.49785pt too high) has occurred while \output is active []
 
 
-[12 <./imagenes/imagen_de_especificaion_muy_dificil_de_replicar_en_latex.jpg>]
-<imagenes/img_diagram_usecase.png, id=64, 131.0496pt x 126.9543pt>
+[11 <./imagenes/imagen_de_especificaion_muy_dificil_de_replicar_en_latex.jpg>]
+<imagenes/img_diagram_usecase.png, id=59, 131.0496pt x 126.9543pt>
 File: imagenes/img_diagram_usecase.png Graphic file (type png)
 <use imagenes/img_diagram_usecase.png>
 Package pdftex.def Info: imagenes/img_diagram_usecase.png  used on input line 2
 00.
 (pdftex.def)             Requested size: 310.4979pt x 300.83575pt.
-<imagenes/pan_registro_lista-modificar.jpg, id=65, 1504.62125pt x 693.59125pt>
+<imagenes/pan_registro_lista-modificar.jpg, id=60, 1504.62125pt x 693.59125pt>
 File: imagenes/pan_registro_lista-modificar.jpg Graphic file (type jpg)
 <use imagenes/pan_registro_lista-modificar.jpg>
 Package pdftex.def Info: imagenes/pan_registro_lista-modificar.jpg  used on inp
 ut line 205.
 (pdftex.def)             Requested size: 310.4979pt x 143.12904pt.
-<imagenes/Buscar-Máquina-Registrar.png, id=66, 131.2905pt x 148.8762pt>
+<imagenes/Buscar-Máquina-Registrar.png, id=61, 131.2905pt x 148.8762pt>
 File: imagenes/Buscar-Máquina-Registrar.png Graphic file (type png)
 <use imagenes/Buscar-Máquina-Registrar.png>
 Package pdftex.def Info: imagenes/Buscar-Máquina-Registrar.png  used on input 
 line 212.
 (pdftex.def)             Requested size: 310.4979pt x 352.11034pt.
-<imagenes/pan_alerta.png, id=67, 905.3825pt x 696.6025pt>
+<imagenes/pan_alerta.png, id=62, 905.3825pt x 696.6025pt>
 File: imagenes/pan_alerta.png Graphic file (type png)
 <use imagenes/pan_alerta.png>
 Package pdftex.def Info: imagenes/pan_alerta.png  used on input line 218.
 (pdftex.def)             Requested size: 276.00105pt x 212.35184pt.
-<imagenes/diagram_usecase_alert_bajostocks.png, id=68, 131.7723pt x 103.8279pt>
+<imagenes/diagram_usecase_alert_bajostocks.png, id=63, 131.7723pt x 103.8279pt>
 
 File: imagenes/diagram_usecase_alert_bajostocks.png Graphic file (type png)
 <use imagenes/diagram_usecase_alert_bajostocks.png>
@@ -283,23 +251,23 @@ Package pdftex.def Info: imagenes/diagram_usecase_alert_bajostocks.png  used on
  input line 225.
 (pdftex.def)             Requested size: 345.0pt x 271.88214pt.
 
-[13 <./imagenes/pan_registrar_materialespormaquina.png> <./imagenes/img_diagram
-_usecase.png>] [14 <./imagenes/pan_registro_lista-modificar.jpg> <./imagenes/Bu
-scar-Máquina-Registrar.png>] [15 <./imagenes/pan_alerta.png> <./imagenes/diagr
+[12 <./imagenes/pan_registrar_materialespormaquina.png> <./imagenes/img_diagram
+_usecase.png>] [13 <./imagenes/pan_registro_lista-modificar.jpg> <./imagenes/Bu
+scar-Máquina-Registrar.png>] [14 <./imagenes/pan_alerta.png> <./imagenes/diagr
 am_usecase_alert_bajostocks.png>]
 Overfull \hbox (3.61174pt too wide) in paragraph at lines 249--251
 []\OT1/cmr/m/n/10 ?`Podr^^S^^Pa pro-por-cionar una lista de in-sumos uti-liza-d
 os en la pro-ducci^^Son? 
  []
 
-[16
+[15
 
-] [17] (./trabajo_final.aux) ) 
+] [16] (./trabajo_final.aux) ) 
 Here is how much of TeX's memory you used:
- 2432 strings out of 477985
- 45949 string characters out of 5840058
- 1857388 words of memory out of 5000000
- 22624 multiletter control sequences out of 15000+600000
+ 2425 strings out of 477985
+ 45682 string characters out of 5840058
+ 1858388 words of memory out of 5000000
+ 22618 multiletter control sequences out of 15000+600000
  516569 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,12n,77p,784b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -308,10 +276,10 @@ s/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/
 type1/public/cm-super/sfrm1000.pfb>
-Output written on trabajo_final.pdf (17 pages, 1364911 bytes).
+Output written on trabajo_final.pdf (16 pages, 1328092 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 109 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
