@@ -55,19 +55,10 @@
 
 \section{Requerimientos}
 \subsection{Funcionales}
-\begin{itemize}
-	\item Gestión de usuarios
-	\begin{enumerate}
-		\item Registrar usuario con nombre y contraseña.
-		\item Validar usuario.
-		\item Modificar usuario.
-		\item Eliminar usuario.
-	\end{enumerate}
-\end{itemize}
 
 \begin{itemize}
 	\item Gestión de insumos
-	\begin{enumerate}[start=5]
+	\begin{enumerate}
 		\item Ingresar insumos.
 		\item Modificar registros de insumos.
 		\item Eliminar registros de insumos.
@@ -78,7 +69,7 @@
 
 \begin{itemize}
 	\item Gestión de proveedores
-	\begin{enumerate}[start=10]
+	\begin{enumerate}[start=6]
 		\item Registrar la entrada de nuevos materiales.
 		\item Registrar la salida de materiales.
 		\item Asignar responsables para estas transacciones.
@@ -87,7 +78,7 @@
 
 \begin{itemize}
 	\item Relación entre Materiales y Máquinas
-	\begin{enumerate}[start=13]
+	\begin{enumerate}[start=9]
 		\item Listar qué materiales se utilizan en la producción de máquinas específicas.
 		\item Registrar la cantidad de cada material utilizado en cada máquina.
 		\item Generar alertas por bajo stock de materiales necesarios para la producción de máquinas.
@@ -96,7 +87,7 @@
 
 \begin{itemize}
 	\item Gestión de productos
-	\begin{enumerate}[start=16]
+	\begin{enumerate}[start=12]
 		\item Ingresar máquinas.
 		\item Modificar registros de máquinas.
 		\item Eliminar registros de máquinas.
@@ -106,7 +97,7 @@
 
 \begin{itemize}
 	\item Gestión de clientes
-	\begin{enumerate}[start=20]
+	\begin{enumerate}[start=16]
 		\item Ingresar clientes.
 		\item Modificar registro de clientes.
 	\end{enumerate}
@@ -114,7 +105,7 @@
 
 \begin{itemize}
 	\item Gestión de pedidos (Distintos estados: Pendiente, en preparación, terminado y entregado)
-	\begin{enumerate}[start=22]
+	\begin{enumerate}[start=18]
 		\item Registrar pedido.
 		\item Modificar pedido.
 		\item Cancelar Pedidos.
@@ -123,7 +114,7 @@
 
 \begin{itemize}
 	\item Gestión de compras (comprar insumos).
-	\begin{enumerate}[start=25]
+	\begin{enumerate}[start=21]
 		\item Registrar Lista de Compra
 	\end{enumerate}
 \end{itemize}
@@ -182,7 +173,9 @@
 
 \section{Diagramas de casos de uso}
 	\begin{center}
-		\includegraphics[width=1\linewidth]{imagenes/diagrama_general.jpg}
+		\includegraphics[width=1\linewidth]{imagenes/cu_sistema_de_gestion.png}
+		\includegraphics[width=1\linewidth]{imagenes/cu_gestion_de_insumos.png}
+		\includegraphics[width=1\linewidth]{imagenes/cu_relacion_materiales_maquinas.png}
 	\end{center}
 
 \section{Especificación de casos de uso}
