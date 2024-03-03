@@ -1,0 +1,285 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.29)  2 MAR 2024 01:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**trabajo_final.tex
+(./trabajo_final.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(/usr/share/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count194
+\l__lipsum_a_int=\count195
+\l__lipsum_b_int=\count196
+
+(/usr/share/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen143
+\enit@toks=\toks17
+\enit@inbox=\box52
+\enit@count@id=\count197
+\enitdp@description=\count198
+)
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (./trabajo_final.aux)
+\openout1 = `trabajo_final.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen144
+\scratchbox=\box53
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen145
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks19
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<imagenes/logo.png, id=1, 1027.6794pt x 1027.6794pt>
+File: imagenes/logo.png Graphic file (type png)
+<use imagenes/logo.png>
+Package pdftex.def Info: imagenes/logo.png  used on input line 24.
+(pdftex.def)             Requested size: 207.0021pt x 206.99059pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imagenes/logo.png>] [2
+
+]
+Overfull \hbox (10.22284pt too wide) in paragraph at lines 54--55
+[]\OT1/cmr/m/n/10 El soft-ware tambi^^Sen mantiene un reg-istro de-tal-lado de 
+los pe-di-dos de m^^Saquinas
+ []
+
+[3] [4{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[5] [6]
+<imagenes/cu_sistema_de_gestion.png, id=29, 531.48563pt x 369.63094pt>
+File: imagenes/cu_sistema_de_gestion.png Graphic file (type png)
+<use imagenes/cu_sistema_de_gestion.png>
+Package pdftex.def Info: imagenes/cu_sistema_de_gestion.png  used on input line
+ 180.
+(pdftex.def)             Requested size: 345.0pt x 239.9414pt.
+<imagenes/cu_gestion_de_insumos.png, id=30, 446.41782pt x 262.73157pt>
+File: imagenes/cu_gestion_de_insumos.png Graphic file (type png)
+<use imagenes/cu_gestion_de_insumos.png>
+Package pdftex.def Info: imagenes/cu_gestion_de_insumos.png  used on input line
+ 181.
+(pdftex.def)             Requested size: 345.0pt x 203.04558pt.
+<imagenes/cu_gestion_clientes.png, id=31, 459.21562pt x 223.58531pt>
+File: imagenes/cu_gestion_clientes.png Graphic file (type png)
+<use imagenes/cu_gestion_clientes.png>
+Package pdftex.def Info: imagenes/cu_gestion_clientes.png  used on input line 1
+82.
+(pdftex.def)             Requested size: 345.0pt x 167.98195pt.
+<imagenes/cu_relacion_materiales_maquinas.png, id=32, 454.69875pt x 267.24844pt
+>
+File: imagenes/cu_relacion_materiales_maquinas.png Graphic file (type png)
+<use imagenes/cu_relacion_materiales_maquinas.png>
+Package pdftex.def Info: imagenes/cu_relacion_materiales_maquinas.png  used on 
+input line 183.
+(pdftex.def)             Requested size: 345.0pt x 202.77654pt.
+ [7
+
+] [8 <./imagenes/cu_sistema_de_gestion.png> <./imagenes/cu_gestion_de_insumos.p
+ng>]
+<imagenes/especificacion_insumos.png, id=42, 342.5297pt x 535.2497pt>
+File: imagenes/especificacion_insumos.png Graphic file (type png)
+<use imagenes/especificacion_insumos.png>
+Package pdftex.def Info: imagenes/especificacion_insumos.png  used on input lin
+e 189.
+(pdftex.def)             Requested size: 345.0pt x 539.15231pt.
+<imagenes/especificacion_insumos2.png, id=43, 410.2828pt x 175.40532pt>
+File: imagenes/especificacion_insumos2.png Graphic file (type png)
+<use imagenes/especificacion_insumos2.png>
+Package pdftex.def Info: imagenes/especificacion_insumos2.png  used on input li
+ne 190.
+(pdftex.def)             Requested size: 345.0pt x 147.49467pt.
+ [9 <./imagenes/cu_gestion_clientes.png> <./imagenes/cu_relacion_materiales_maq
+uinas.png>]
+Overfull \vbox (161.34973pt too high) has occurred while \output is active []
+
+
+[10 <./imagenes/especificacion_insumos.png> <./imagenes/especificacion_insumos2
+.png>]
+<imagenes/imagen_de_especificaion_muy_dificil_de_replicar_en_latex.jpg, id=54, 
+785.93625pt x 1606.0pt>
+File: imagenes/imagen_de_especificaion_muy_dificil_de_replicar_en_latex.jpg Gra
+phic file (type jpg)
+<use imagenes/imagen_de_especificaion_muy_dificil_de_replicar_en_latex.jpg>
+Package pdftex.def Info: imagenes/imagen_de_especificaion_muy_dificil_de_replic
+ar_en_latex.jpg  used on input line 192.
+(pdftex.def)             Requested size: 310.4979pt x 634.49785pt.
+<imagenes/pan_registrar_materialespormaquina.png, id=55, 1582.91376pt x 722.7pt
+>
+File: imagenes/pan_registrar_materialespormaquina.png Graphic file (type png)
+<use imagenes/pan_registrar_materialespormaquina.png>
+Package pdftex.def Info: imagenes/pan_registrar_materialespormaquina.png  used 
+on input line 195.
+(pdftex.def)             Requested size: 345.0pt x 157.50577pt.
+
+Overfull \vbox (84.49785pt too high) has occurred while \output is active []
+
+
+[11 <./imagenes/imagen_de_especificaion_muy_dificil_de_replicar_en_latex.jpg>]
+<imagenes/img_diagram_usecase.png, id=59, 131.0496pt x 126.9543pt>
+File: imagenes/img_diagram_usecase.png Graphic file (type png)
+<use imagenes/img_diagram_usecase.png>
+Package pdftex.def Info: imagenes/img_diagram_usecase.png  used on input line 2
+00.
+(pdftex.def)             Requested size: 310.4979pt x 300.83575pt.
+<imagenes/pan_registro_lista-modificar.jpg, id=60, 1504.62125pt x 693.59125pt>
+File: imagenes/pan_registro_lista-modificar.jpg Graphic file (type jpg)
+<use imagenes/pan_registro_lista-modificar.jpg>
+Package pdftex.def Info: imagenes/pan_registro_lista-modificar.jpg  used on inp
+ut line 205.
+(pdftex.def)             Requested size: 310.4979pt x 143.12904pt.
+<imagenes/Buscar-Máquina-Registrar.png, id=61, 131.2905pt x 148.8762pt>
+File: imagenes/Buscar-Máquina-Registrar.png Graphic file (type png)
+<use imagenes/Buscar-Máquina-Registrar.png>
+Package pdftex.def Info: imagenes/Buscar-Máquina-Registrar.png  used on input 
+line 212.
+(pdftex.def)             Requested size: 310.4979pt x 352.11034pt.
+<imagenes/pan_alerta.png, id=62, 905.3825pt x 696.6025pt>
+File: imagenes/pan_alerta.png Graphic file (type png)
+<use imagenes/pan_alerta.png>
+Package pdftex.def Info: imagenes/pan_alerta.png  used on input line 218.
+(pdftex.def)             Requested size: 276.00105pt x 212.35184pt.
+<imagenes/diagram_usecase_alert_bajostocks.png, id=63, 131.7723pt x 103.8279pt>
+
+File: imagenes/diagram_usecase_alert_bajostocks.png Graphic file (type png)
+<use imagenes/diagram_usecase_alert_bajostocks.png>
+Package pdftex.def Info: imagenes/diagram_usecase_alert_bajostocks.png  used on
+ input line 225.
+(pdftex.def)             Requested size: 345.0pt x 271.88214pt.
+
+[12 <./imagenes/pan_registrar_materialespormaquina.png> <./imagenes/img_diagram
+_usecase.png>] [13 <./imagenes/pan_registro_lista-modificar.jpg> <./imagenes/Bu
+scar-Máquina-Registrar.png>] [14 <./imagenes/pan_alerta.png> <./imagenes/diagr
+am_usecase_alert_bajostocks.png>]
+Overfull \hbox (3.61174pt too wide) in paragraph at lines 249--251
+[]\OT1/cmr/m/n/10 ?`Podr^^S^^Pa pro-por-cionar una lista de in-sumos uti-liza-d
+os en la pro-ducci^^Son? 
+ []
+
+[15
+
+] [16] (./trabajo_final.aux) ) 
+Here is how much of TeX's memory you used:
+ 2425 strings out of 477985
+ 45682 string characters out of 5840058
+ 1858388 words of memory out of 5000000
+ 22618 multiletter control sequences out of 15000+600000
+ 516569 words of font info for 46 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 72i,12n,77p,784b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/
+type1/public/cm-super/sfrm1000.pfb>
+Output written on trabajo_final.pdf (16 pages, 1328092 bytes).
+PDF statistics:
+ 109 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
