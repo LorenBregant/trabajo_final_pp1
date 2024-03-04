@@ -80,15 +80,14 @@
 \begin{itemize}
 	\item Relación entre Materiales y Máquinas
 	\begin{enumerate}[start=10]
-		\item Listar qué materiales se utilizan en la producción de máquinas específicas.
 		\item Registrar la cantidad de cada material utilizado en cada máquina.
-		\item Generar alertas por bajo stock de materiales necesarios para la producción de máquinas.
+		\item Listar qué materiales se utilizan en la producción de máquinas específicas.
 	\end{enumerate}
 \end{itemize}
 
 \begin{itemize}
-	\item Gestión de Máquinas
-	\begin{enumerate}[start=13]
+	\item Gestión de Máquinas/Productos
+	\begin{enumerate}[start=12]
 		\item Ingresar máquina.
 		\item Consultar máquina.
 		\item Modificar máquina.
@@ -98,7 +97,7 @@
 
 \begin{itemize}
 	\item Gestión de clientes
-	\begin{enumerate}[start=17]
+	\begin{enumerate}[start=16]
 		\item Ingresar cliente.
 		\item Consultar cliente.
 		\item Modificar cliente.
@@ -108,7 +107,7 @@
 
 \begin{itemize}
 	\item Gestión de pedidos (Distintos estados: Pendiente, en preparación, terminado y entregado)
-	\begin{enumerate}[start=21]
+	\begin{enumerate}[start=20]
 		\item Registrar pedido.
 		\item Consultar pedido.
 		\item Modificar pedido.
@@ -118,7 +117,7 @@
 
 \begin{itemize}
 	\item Gestión de compras (comprar insumos).
-	\begin{enumerate}[start=25]
+	\begin{enumerate}[start=24]
 		\item Registrar Lista de Compra
 	\end{enumerate}
 \end{itemize}
@@ -190,40 +189,17 @@
 	\includegraphics[width=1\linewidth]{imagenes/especificacion_insumos2.png}
 
     \includegraphics[width=0.9\linewidth]{imagenes/imagen_de_especificaion_muy_dificil_de_replicar_en_latex.jpg}
-
-    \begin{figure}
-        \includegraphics[width=1\linewidth]{imagenes/pan_registrar_materialespormaquina.png}
-        \caption{Pantallas R13}
-    \end{figure} 
+    
     
     \begin{figure}
-        \includegraphics[width=0.9\linewidth]{imagenes/img_diagram_usecase.png}  
+        \includegraphics[width=1\linewidth]{imagenes/registrar_insumos_maquina.png}  
     \end{figure}
+    
     
     \begin{figure}
         \begin{center}
-            \includegraphics[width=0.9\linewidth]{imagenes/pan_registro_lista-modificar.jpg}
-            \caption{Pantallas R14}
+            \includegraphics[width=0.88\linewidth]{imagenes/consulta_mod_eli.png}  
         \end{center}
-    \end{figure}
-    
-    \begin{figure}
-        \begin{center}
-            \includegraphics[width=0.9\linewidth]{imagenes/Buscar-Máquina-Registrar.png}  
-        \end{center}
-    \end{figure}
-    
-    \begin{figure}
-        \begin{center}
-            \includegraphics[width=0.8\linewidth]{imagenes/pan_alerta.png}
-            \caption{Pantallas R15}  
-        \end{center}
-    \end{figure}
-    
-    \begin{figure}
-        \begin{center}
-            \includegraphics[width=1\linewidth]{imagenes/diagram_usecase_alert_bajostocks.png}  
-        \end{center}  
     \end{figure}
     
 \clearpage
@@ -232,7 +208,7 @@
     \begin{enumerate}
         \item Gestión Actual de Stocks:
             \begin{enumerate}[label=\Alph*.]
-                \item[a.] ¿Cómo gestionan actualmente el inventario de materiales y máquinas en su fábrica? \\
+                \item[a.] ¿Cómo gestionan actualmente el inventario de materiales/insumos y máquinas/productos en su fábrica? \\
                     Con hojas de cálculo individuales, cada máquina tiene su registro.
                 \item[b.] ¿Utilizan algún software o sistema para llevar un registro de los stocks o es principalmente manual? \\
                     Excel
@@ -244,7 +220,7 @@
     \end{enumerate}
     
     \begin{enumerate}[start=2]
-        \item Tipos de Materiales:
+        \item Tipos de Materiales/Insumos:
             \begin{enumerate}[label=\Alph*.]
             \item[a.]  ¿Podría proporcionar una lista de insumos utilizados en la producción? \\
                 Acero aisi 304 (chapas, caños, redondos, etc), plástico de ingeniería (grillon, etc), SAE 1010, 1045, motores y reductores, poleas, engranajes, correas, cadenas, rodamientos, retenes, cables, discos, elementos eléctricos (llaves, contactores, etc), gases industriales (argón y oxígeno), consumibles para plasma (electrodo, toberas y escudo), consumibles para torno (porta e insertos).
@@ -254,7 +230,7 @@
     \end{enumerate}
 
     \begin{enumerate}[start=3]
-        \item Entrada y Salida de Materiales:
+        \item Entrada y Salida de Materiales/Insumos:
             \begin{enumerate}[label=\Alph*.]
                 \item[a.]  ¿Cómo se registra la entrada de nuevos materiales en su fábrica? \\
                     De ninguna forma, solo revisando el remito de los proveedores.
@@ -266,7 +242,7 @@
     \end{enumerate}
 
     \begin{enumerate}[start=4]
-        \item Relación entre Materiales y Máquinas:
+        \item Relación entre Materiales/Insumos y Máquinas/Productos:
             \begin{enumerate}[label=\Alph*.]
                 \item[a.] ¿Cómo se determina qué materiales se utilizan en la producción de máquinas específicas? \\
                     Previo diseño y posteriormente en los planos.
@@ -278,7 +254,7 @@
     \end{enumerate}
 
     \begin{enumerate}[start=5]
-        \item Control de Máquinas:
+        \item Control de Máquinas/Productos:
             \begin{enumerate}[label=\Alph*.]
                 \item[a.] ¿Cómo gestionan el inventario de máquinas en su fábrica? \\
                     En excel.
