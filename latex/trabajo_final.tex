@@ -1,28 +1,47 @@
 \documentclass{article}
-\usepackage{graphicx}
-\usepackage{lipsum}
-\usepackage{enumitem}
-\usepackage{fancyhdr}
-\usepackage{setspace}
 
+\usepackage{graphicx}
+
+\usepackage{lipsum}
+
+\usepackage{hyperref}
+
+\usepackage{enumitem}
+
+\usepackage{fancyhdr}
+
+\usepackage{setspace}
 
 \pagestyle{fancy}
 \fancyhf{}
 \rhead{Ayrton y Lorenzo Bregant} % Texto en el encabezado a la derecha
 \lhead{CS} % Texto en el encabezado a la izquierda
+\cfoot{\thepage} % Número de página en el centro del pie de página
 
 \title{
-	\includegraphics[width=0.6\linewidth]{imagenes/logo.png}\\[1.5em]
-	Práctica Profesional I - Trabajo Final
+    \includegraphics[width=0.6\linewidth]{imagenes/logo.png}\\[1.5em]
+    Práctica Profesional I - Trabajo Final
 }
 \author{\\ \\ \\ Alumnos: Ayrton M. Bregant, Lorenzo Bregant \\ \\ Carrera: Técnico Superior en Desarrollo de Software \\ \\ Proyecto: Trabajo Final PPI \\ \\ Año cursado: 2do}
 \date{}
 
 \setstretch{1.5}
+
+\renewcommand{\contentsname}{Índice} % Cambia el nombre de la tabla de contenidos
+
 \begin{document}
 
 \maketitle
+\thispagestyle{empty} % Desactiva la numeración de página en la portada
 \clearpage
+
+\pagestyle{fancy} % Restaura el estilo de página 'fancy'
+
+\setcounter{page}{1} % Inicia la numeración de página desde 1
+
+\tableofcontents % Tabla de contenidos
+\clearpage
+
 \section{Introducción}
 \parindent=2 em
 
@@ -182,25 +201,39 @@
 		\includegraphics[width=1\linewidth]{imagenes/cu_relacion_materiales_maquinas.png}
 	\end{center}
 
-\section{Especificación de casos de uso}
+\section{Especificaciones de casos de uso}
 
+	\begin{center}
+		\includegraphics[width=1\linewidth]{imagenes/especificacion_insumos.png}
+		\clearpage
+		\includegraphics[width=1\linewidth]{imagenes/especificacion_insumos2.png}
+	\end{center}
 	
-	\includegraphics[width=1\linewidth]{imagenes/especificacion_insumos.png}
-	\includegraphics[width=1\linewidth]{imagenes/especificacion_insumos2.png}
+	\begin{center}
+		\includegraphics[width=1\linewidth]{imagenes/16_especificacion_clientes.png}
+		\includegraphics[width=1\linewidth]{imagenes/16_especificacion_clientes2.png}
+		\includegraphics[width=1\linewidth]{imagenes/16_especificacion_clientes3.png}
+	\end{center}
+	
+	\begin{center}
+		\includegraphics[width=1\linewidth]{imagenes/18_especificacion_clientes.png}
+		\includegraphics[width=1\linewidth]{imagenes/18_especificacion_clientes2.png}
+	\end{center}
 
-    \includegraphics[width=0.9\linewidth]{imagenes/imagen_de_especificaion_muy_dificil_de_replicar_en_latex.jpg}
+    \begin{center}
+    		\includegraphics[width=1\linewidth]{imagenes/19_especificacion_clientes.png}
+		\includegraphics[width=1\linewidth]{imagenes/19_especificacion_clientes2.png}
+    \end{center}
     
+    \begin{center}
+        \includegraphics[width=1\linewidth]{imagenes/10_registrar_insumo_maquina.png}
+        \includegraphics[width=1\linewidth]{imagenes/10_registrar_insumo_maquina2.png} 
+    \end{center}
     
-    \begin{figure}
-        \includegraphics[width=1\linewidth]{imagenes/registrar_insumos_maquina.png}  
-    \end{figure}
-    
-    
-    \begin{figure}
-        \begin{center}
-            \includegraphics[width=0.88\linewidth]{imagenes/consulta_mod_eli.png}  
-        \end{center}
-    \end{figure}
+    \begin{center}
+        \includegraphics[width=1\linewidth]{imagenes/11_cons_mod_elim.png}
+        \includegraphics[width=1\linewidth]{imagenes/11_cons_mod_elim2.png} 
+    \end{center}
     
 \clearpage
 
